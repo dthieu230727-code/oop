@@ -1,4 +1,4 @@
-# Bài tập CTDL&GT – 211131
+# Bài tập Hướng Đối Tượng 
 
 - Họ tên: Đinh Trung Hiếu
 - MSV: 11425054
@@ -12,4 +12,4 @@
 | 04 | Cây | Buoi04_Cay | Chưa nộp |
 | 05 | Sắp xếp | Buoi05_SapXep | Chưa nộp |
 | 06 | Tìm kiếm | Buoi06_TimKiem | Chưa nộp |
-| BTL | Bài tập lớn | BaiTapLon | Chưa nộp |
+
